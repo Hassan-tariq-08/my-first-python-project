@@ -1,8 +1,8 @@
 import numpy as np
 import time
 
-x = np.linspace(0, 1, 201)
-y = np.random.random(201)
+x = np.linspace(0, 1, 2001)
+y = np.random.random(2001)
 
 header = "X-Column, Y-Column\nThis is a second line"
 
